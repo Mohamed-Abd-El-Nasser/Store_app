@@ -1,0 +1,17 @@
+.cart_icon{
+    text-decoration: none;
+    color: #000;
+}
+.cart_icon:hover{
+    color: black;
+}
+.cart_icon div i{
+    font-size: 24px;
+}
+
+.cart_icon div span{
+    position: absolute;
+    top: 5px;
+    right: -10px;
+    font-size: 10px;
+}
